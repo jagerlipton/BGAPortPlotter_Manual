@@ -45,8 +45,7 @@
 |**График**|**Ориентация экрана**|
 |![Screen3](img/Screen3.jpg)|![Screen4](img/Screen4.jpg)|
 |**Экспорт PNG**|**Экспорт CSV**|
-|![Screen5](img/Screen5.png)|[![Screen6](img/Screen6_preview.png)](img/Screen6.png)|
-
+|![Screen5](img/Screen5.png)|[![Screen6](img/Screen6_preview.png)](img/Screen6.png "Экспорт в текст")|
 
 
 #### Планируемые изменения:
